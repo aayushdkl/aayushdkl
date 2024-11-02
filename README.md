@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Aayush Dhakal</h1>
-<h3 align="center">Aspiring Software Engineer with a passion for building impactful solutions</h3>
+<h3 align="center">Electronics, Communication, and Information Engineering Student | Aspiring Full-Stack Developer | Robotics & Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushdkl&label=Profile%20views&color=0e75b6&style=flat" alt="aayushdkl" /> 
@@ -8,8 +8,9 @@
 
 <!-- About Section -->
 <p align="center">
-  🌱 I’m currently exploring the latest in cloud technologies and backend optimizations.<br/>
-  🚀 Always ready to learn and take on new challenges!
+  🌱 I’m an engineering student passionate about electronics, robotics, and web development.<br/>
+  💻 Currently diving into full-stack development, with a growing interest in blockchain and Solidity.<br/>
+  🚀 Always exploring new technologies and innovations in the tech world!
 </p>
 
 ---
@@ -25,6 +26,7 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   
   <!-- Backend and Database -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -81,5 +83,5 @@
 
 <!-- Footer Note -->
 <p align="center">
-  🔹 <i>"Keep pushing forward, every step counts!"</i> 🔹
+  🔹 <i>"Exploring the intersection of technology, robotics, and blockchain"</i> 🔹
 </p>
