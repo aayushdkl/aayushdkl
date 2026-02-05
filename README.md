@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Aayush Dhakal</h1>
-<h3 align="center">Electronics, Communication, and Information Engineering Student | Aspiring Full-Stack Developer | Robotics & Blockchain Enthusiast</h3>
+<h3 align="center">Electronics, Communication, and Information Engineering Student | Full-Stack Developer | Robotics & Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushdkl&label=Profile%20views&color=0e75b6&style=flat" alt="aayushdkl" /> 
