@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Aayush Dhakal</h1>
-<h3 align="center">Electronics, Communication, and Information Engineering Student | Full-Stack Developer | Robotics & Blockchain Enthusiast</h3>
+<h3 align="center">Electronics, Communication, and Information Engineering Student | Full-Stack Developer | Robotics Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushdkl&label=Profile%20views&color=0e75b6&style=flat" alt="aayushdkl" /> 
@@ -9,7 +9,7 @@
 <!-- About Section -->
 <p align="center">
   🌱 I’m an engineering student passionate about electronics, robotics, and web development.<br/>
-  💻 Currently diving into full-stack development, with a growing interest in blockchain and Solidity.<br/>
+  💻 Currently diving into full-stack development and DSA<br/>
   🚀 Always exploring new technologies and innovations in the tech world!
 </p>
 
